@@ -1,6 +1,6 @@
 ---
-title: Three sets of random numbers
-author: You
+title: Distribution 2
+author: Oceanus
 output: html_document
 ---
 
